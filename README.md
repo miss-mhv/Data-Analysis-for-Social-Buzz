@@ -4,4 +4,4 @@ In this work, we focus on a small dataset extracted from a large enterprise data
 
 Here we try to analyse the top 5 most popular categories of content using python.
 
-The dataset is provide by [Accentured](https://www.accenture.com/us-en?c=acn_glb_sembrandpuregoogle_13513493&n=psgs_0323&&&&&&c=ad_usadfy17_10000001&n=psgs_Brand-%7C-US-%7C-Exact_accenture&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHxiMdRfsW7dpoQFZUYoCy2h3UOrpW57WToW1EDvN35tsj-H6KItenQaAnGoEALw_wcB&gclsrc=aw.ds)
+The dataset is provided by [Accentured](https://www.accenture.com/us-en?c=acn_glb_sembrandpuregoogle_13513493&n=psgs_0323&&&&&&c=ad_usadfy17_10000001&n=psgs_Brand-%7C-US-%7C-Exact_accenture&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHxiMdRfsW7dpoQFZUYoCy2h3UOrpW57WToW1EDvN35tsj-H6KItenQaAnGoEALw_wcB&gclsrc=aw.ds)
